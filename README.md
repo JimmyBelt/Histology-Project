@@ -122,6 +122,7 @@ The project discusses:
 ```bash
 git clone https://github.com/JimmyBelt/Histology-Project.git
 cd Histology-Project
+```
 
 ## 📄 License
 
